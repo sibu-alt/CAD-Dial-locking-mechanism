@@ -16,9 +16,10 @@ the dial mechanism is comprised of 3 wheels with a drive cam at the end. the dri
 
 ### Challenges
 
-###Specs
-* Solidworks 2026
-* 
+### Specs
+* Software: Solidworks 2026
+* Target materials:
+* Manufacturing method: 
 
 
 
