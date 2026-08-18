@@ -14,12 +14,19 @@ the dial mechanism is comprised of 3 wheels with a drive cam at the end. the dri
 
 ### Visuals
 
+<img width="1139" height="612" alt="exploded ortho" src="https://github.com/user-attachments/assets/b43edebb-9667-4e4a-adda-eb03f30ffe07" />
+
+<img width="1139" height="612" alt="dial top" src="https://github.com/user-attachments/assets/b974b824-3768-4928-b4e6-b6272deb44e4" />
+
+<img width="1139" height="612" alt="dial lock" src="https://github.com/user-attachments/assets/06dc1270-4f26-461f-a763-8afdfc1563e7" />
+
+
 ### Challenges
+* Getting the correct mate configuration for the fence and wheels was a bit of a challenge, tangent mating turned out to be the better solution compared to coincident mating to work well with the wheel and slots.
 
 ### Specs
 * Software: Solidworks 2026
-* Target materials:
-* Manufacturing method: 
+* Suggested Manufacturing method: Stamped brass wheels, steel rod spindle made using CNC or cold-forming, spring steel fence made using stamping.
 
 
 
